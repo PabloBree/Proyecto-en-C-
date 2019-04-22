@@ -1,0 +1,17 @@
+Casos de uso (Club Deportivo):
+
+C:Consultas datos generales
+
+1-ABM Actividad deportiva
+2-ABM Profesores
+3-ABM Socios
+4-AB Inscripciones
+5-Registrar pago
+6-Consultar situacion arancelaria
+7-Consultar actividades dictadas por un profesor
+8-Consultar horarios en que se dicta una actividad
+9-Consultar actividades en las que está inscripto un socio
+10-Generar deuda de un socio
+
+
+
